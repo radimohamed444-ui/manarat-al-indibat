@@ -1,0 +1,10 @@
+.dart_tool/
+__pycache__/
+*.pyc
+.packages
+build/
+*.iml
+.idea/
+.vscode/
+android/local.properties
+ios/Pods/
